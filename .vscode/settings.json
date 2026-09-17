@@ -25,5 +25,8 @@
     "*.json": true,
     "node_modules": true,
     "screenshots": true
-  }
+  },
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "main"
+  ]
 }
