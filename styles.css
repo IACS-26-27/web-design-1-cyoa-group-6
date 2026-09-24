@@ -2,8 +2,8 @@ body {
   width: 550px;
   margin-left: auto;
   margin-right: auto;
-  color: black;
-  background-image: url("./images/background.jpg");
+  color: rgb(41, 169, 139);
+  background-color:rgb(199, 255, 242)
   padding: 1em;
 }
 p {
@@ -13,7 +13,7 @@ p {
 h1 {
   font-size: 48pt;
   font-weight: bold;
-  color: brown;
+  color: rgb(5, 54, 55);
 }
 figure {
     display: block;
